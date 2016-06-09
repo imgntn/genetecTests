@@ -1,4 +1,4 @@
-# genetecTests
+# geneticTests
 running some genoset tests on my dna json
 
 https://github.com/genomejs/dna2json
